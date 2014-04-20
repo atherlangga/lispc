@@ -1,0 +1,6 @@
+# Ignore everything in the root..
+/*
+# .. but not files ith extension
+!/*.*
+# .. and also README
+!/README
